@@ -1,0 +1,12 @@
+{
+    "hussain": {
+        "password": "husspass",
+        "medicines": [
+            {
+                "medicine": "Paracetamol",
+                "dosage": "10 mg",
+                "time": "16:57"
+            }
+        ]
+    }
+}
