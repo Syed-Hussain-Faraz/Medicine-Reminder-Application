@@ -30,6 +30,8 @@ pip install -r requirements.txt
 
 python test_notifications.py
 
-3. Run the program
+4. Run the program. You can test it using the dummy data in `data.json`, or delete the file to start with a fresh dataset.
+
+5. Run the program
 
 python medicine_reminder.py
