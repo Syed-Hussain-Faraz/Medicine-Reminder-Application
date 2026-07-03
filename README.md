@@ -37,4 +37,3 @@ python test_notifications.py
 5. Run the program
 
 python medicine_reminder.py
->>>>>>> b5f746b1c6d5ea94a97650e36e0756a42ff4edee
