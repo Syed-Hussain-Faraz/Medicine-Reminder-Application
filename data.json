@@ -8,5 +8,15 @@
                 "time": "16:57"
             }
         ]
+    },
+    "bloom": {
+        "password": "bloom",
+        "medicines": [
+            {
+                "medicine": "paracetamol",
+                "dosage": "650mg",
+                "time": "17:55"
+            }
+        ]
     }
 }

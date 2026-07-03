@@ -87,11 +87,19 @@ def login():
 def signup():
     username = simple_input("Sign Up", "Choose username")
 
+    if username == '' or username is None:
+        messagebox.showerror("Error", "Please enter a valid username")
+        return
+
     if username in data:
         messagebox.showerror("Error", "Username already exists")
         return
 
     password = simple_input("Sign Up", "Choose password")
+
+    if password == '' or password is None:
+        messagebox.showerror("Error", "Please enter a valid password")
+        return
 
     data[username] = {
         "password": password,
