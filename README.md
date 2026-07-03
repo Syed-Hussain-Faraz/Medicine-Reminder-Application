@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # Medicine Reminder Desktop Application
 
